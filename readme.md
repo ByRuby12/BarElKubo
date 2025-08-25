@@ -1,8 +1,8 @@
-# Bar Atenea
+# Bar El Kubo
 
-Sitio web para el Bar Atenea, donde los usuarios pueden consultar el menú de desayunos, raciones, hamburguesas, bocadillos, bebidas, postres, promociones y datos de contacto.
+Sitio web para el Bar El Kubo, donde los usuarios pueden consultar el menú de desayunos, raciones, hamburguesas, bocadillos, bebidas, postres, promociones y datos de contacto.
 
-**[Ver la web en línea](https://byruby12.github.io/BarAtenea/)**
+**[Ver la web en línea](https://byruby12.github.io/BarElKubo/)**
 
 ## Características
 
