@@ -2,7 +2,7 @@
   "nombreBar": "Bar El Kubo",
   "direccion": "C. de la del Manojo de Rosas, 102 Posterior, Villaverde, 28041 Madrid",
   "telefono": "643894762",
-  "email": "barelkubo@gmail.com",
+  "email": "",
   "horario": "Lunes a Sábados: 14:00 - 2:00 <br>⏰ Domingos: Cerrado <br> (Excepto días de Fútbol que abriremos a las 16:00)",
   "enlaceGoogleMaps": "https://maps.app.goo.gl/ZLMR2ZMgHnbjURhU8",
   "logo": "imagenes/logo-bar.png",
@@ -14,7 +14,7 @@
   "footerDerechos": "Copyright ©{year} Derechos reservados para {bar}",
   "desarrollador": "Diseñado y desarrollado por ByRuby12 - V4.0.0",
   "redes": {
-    "twitter": "https://x.com/barelkubo",
+    "twitter": "#",
     "tiktok": "#",
     "youtube": "#",
     "instagram": "https://www.instagram.com/bar_el_kubo/",
@@ -142,4 +142,5 @@
   "color-galeria-modal-bg":  "#000000D9",
   "color-galeria-modal-contador-bg": "#00000073"
   }
+
 }
