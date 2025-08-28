@@ -32,8 +32,8 @@
     "productos": [
       { "nombre": "Kubo de 5 Botellines", "descripcion": "Pack de 5 botellines sin ración incluida.", "precio": "6,50€", "alergenos": ["free-alergenos"] },
       { "nombre": "Kubo de 8 Botellines", "descripcion": "Pack de 8 botellines acompañado de 1 ración a elegir: 6 Mini Sándwiches, Salchipapas o Bravioli.", "precio": "12,00€", "alergenos": ["gluten", "huevos", "lacteos", "sulfitos"] },
-      { "nombre": "Kubo de 16 Botellines", "descripcion": "Pack de 16 botellines con 2 raciones a elegir: 6 Mini Sándwiches, Salchipapas, Bravioli, 5 Mini Hamburguesas o Nuggets.", "precio": "24,00€", "alergenos": ["gluten", "huevos", "lacteos", "sulfitos"] },
-      { "nombre": "Kubo de 30 Botellines", "descripcion": "Pack de 30 botellines con 3 raciones a elegir: 6 Mini Sándwiches, Salchipapas, Bravioli, 5 Mini Hamburguesas, Nuggets o 8 Alitas.", "precio": "38,00€", "alergenos": ["gluten", "huevos", "lacteos", "sulfitos"] },
+      { "nombre": "Kubo de 16 Botellines", "descripcion": "Pack de 16 botellines con 2 raciones a elegir: 6 Mini Sándwiches, Salchipapas, Bravioli, 5 Mini Hamburguesas, Nuggets o Alitas de pollo.", "precio": "24,00€", "alergenos": ["gluten", "huevos", "lacteos", "sulfitos"] },
+      { "nombre": "Kubo de 30 Botellines", "descripcion": "Pack de 30 botellines con 3 raciones a elegir: 6 Mini Sándwiches, Salchipapas, Bravioli, 5 Mini Hamburguesas, Nuggets o Alitas de pollo..", "precio": "38,00€", "alergenos": ["gluten", "huevos", "lacteos", "sulfitos"] },
       { "nombre": "Kubo de 4 Tercios", "descripcion": "Pack de 4 tercios acompañado de 1 ración a elegir: 6 Mini Sándwiches, Salchipapas o Bravioli.", "precio": "11,00€", "alergenos": ["gluten", "huevos", "lacteos", "sulfitos"] },
       { "nombre": "Kubo de 4 Refrescos", "descripcion": "Pack de 4 refrescos acompañado de 1 ración a elegir: 4 Mini Hamburguesas o Salchipapas.", "precio": "9,50€", "alergenos": ["gluten", "huevos", "lacteos", "sulfitos"] },
       { "nombre": "2 Minis de Tinto + Ración", "descripcion": "2 minis de tinto acompañados de 1 ración a elegir: Salchipapas o Bravioli.", "precio": "8,50€", "alergenos": ["gluten", "sulfitos"] },
@@ -88,4 +88,5 @@
     "categoria" : "Contacto",
     "productos": []
   }
+
 ]
